@@ -25,7 +25,7 @@ The project utilizes the OpenCV library in Python to apply a series of image pro
 This is a fun, easy-to-use tool for converting images into cartoon-like illustrations. By leveraging powerful image processing techniques in OpenCV, this project brings creativity and art to everyday photos, making it an enjoyable experience for users of all ages.
 
 ORGINAL IMAGE:
-![Alt text](shahrukh.png)
+![Alt text](shahrukh.jpg)
 
 OUTPUT IMAGE:
 ![Alt text](output1.png)
